@@ -1,0 +1,13 @@
+2024-10-17 16:16:33,286 - root - INFO - Logging configured.
+2024-10-17 16:16:33,286 - root - INFO - Environment variables loaded.
+2024-10-17 16:16:33,286 - root - CRITICAL - Oh No! I'm broken
+2024-10-17 16:16:33,286 - root - INFO - Environment: Production
+2024-10-17 16:16:33,286 - root - INFO - Application started.
+2024-10-17 16:16:33,289 - root - INFO - Entering REPL Mode
+2024-10-17 16:18:47,754 - root - INFO - Exiting the REPL Mode
+2024-10-17 16:18:50,975 - root - INFO - Logging configured.
+2024-10-17 16:18:50,975 - root - INFO - Environment variables loaded.
+2024-10-17 16:18:50,975 - root - INFO - Environment: Production
+2024-10-17 16:18:50,975 - root - INFO - Application started.
+2024-10-17 16:18:50,978 - root - INFO - Entering REPL Mode
+2024-10-17 16:19:08,656 - root - INFO - Exiting the REPL Mode
